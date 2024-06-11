@@ -50,6 +50,7 @@
     display: block;
     }
     
+    
     .botao.ativo{
     background: var(--botao-ativo);
     border-bottom: 4px solid var(--verde);
